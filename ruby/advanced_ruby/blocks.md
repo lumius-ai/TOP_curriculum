@@ -1,6 +1,7 @@
 ### Introduction
 
-You are already familiar with Ruby blocks from the [Basic Enumerable Methods](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/basic-enumerable-methods) lesson from earlier. But there is more depth to blocks than we've covered, so this lesson will dive deeper. Blocks are such a fundamental part of Ruby that you should get to know them inside out.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla justo in leo tempus, non aliquam ex ultrices. In hac habitasse platea dictumst. Curabitur tempus enim libero, id cursus mauris porttitor bibendum. Pellentesque massa diam, interdum quis nibh et, suscipit convallis urna. Curabitur aliquam magna non justo aliquet, at venenatis nunc congue. Nunc venenatis vestibulum massa at maximus. Sed in ante a felis feugiat euismod. Morbi cursus volutpat dui, ut cursus odio bibendum a. .
+efvrf
 
 A very quick recap of the basics that you should already be familiar with...
 
